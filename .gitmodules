@@ -1,0 +1,6 @@
+[submodule "code-webapp-walmart-desafio-01"]
+	path = code-webapp-walmart-desafio-01
+	url = https://github.com/bside/code-webapp-walmart-desafio-01.git
+[submodule "code-api-walmart-desafio-01"]
+	path = code-api-walmart-desafio-01
+	url = https://github.com/bside/code-api-walmart-desafio-01.git
